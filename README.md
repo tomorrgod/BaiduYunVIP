@@ -46,19 +46,19 @@
 
 ### 第一步:登录163邮箱，网页不要关
 
-<div align=center><img width = '150' height ='150' src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/01.png"/></div>
+<div align=center><img src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/01.png"/></div>
 
 <center>自动跳到下面界面</center>
 
-<div align=center><img width = '150' height ='150' src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/01.png"/></div>
+<div align=center><img src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/01.png"/></div>
 
 ### 第二步:打开百度网盘软件，登录百度网盘
 
-<div align=center><img width = '150' height ='150' src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/01.png"/></div>
+<div align=center><img src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/01.png"/></div>
 
 <center>自动跳到下面界面</center>
 
-<div align=center><img width = '150' height ='150' src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/01.png"/></div>
+<div align=center><img src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/01.png"/></div>
 
 ## 四、账号使用技巧
 
