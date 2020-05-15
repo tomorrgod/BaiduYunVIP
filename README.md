@@ -47,13 +47,15 @@
 ### 第一步:登录163邮箱，网页不要关
 
 <div align=center><img src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/01.png"/></div>
-<center>自动跳到下面界面</center>
+<div align=center>自动跳到下面界面</div>
 <div align=center><img src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/02.png"/></div>
+
 ### 第二步:打开百度网盘软件，登录百度网盘
 
 <div align=center><img src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/03.png"/></div>
-<center>自动跳到下面界面</center>
+<div align=center>自动跳到下面界面</div>
 <div align=center><img src ="https://github.com/zsc1220/BaiduYunVIP/blob/master/pic/04.png"/></div>
+
 ## 四、账号使用技巧
 
 ### 技巧1：怎么下载自己网盘里的文件？（方法1更简单）
